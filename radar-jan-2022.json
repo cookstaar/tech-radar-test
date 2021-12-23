@@ -5,5 +5,26 @@
     "quadrant": "languages-and-frameworks",
     "isNew": "TRUE",
     "description": "Although the idea of dependency management ..."
+  },
+    {
+    "name": "test2",
+    "ring": "trial",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "Although the idea of dependency management ..."
+  },
+    {
+    "name": "test3",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "Although the idea of dependency management ..."
+  },
+    {
+    "name": "test4",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "Although the idea of dependency management ..."
   }
  ]
